@@ -22,3 +22,4 @@ Occasionally venture into JS & React when the front-end needs saving.
 ### 📬 Get in touch
 
 [![Gmail](https://img.shields.io/badge/alirezakhezri.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezakhezri.dev@gmail.com)
+💼 [linkedin.com/in/alireza-khezri](https://www.linkedin.com/in/alireza-khezri)
